@@ -1,4 +1,4 @@
-# marching-square-intersec
+# marching-squares-intersec
 ## Introduction
 Calculate intersection point of an isoline and an edge in a grid.
 
